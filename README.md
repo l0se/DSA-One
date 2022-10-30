@@ -8,3 +8,4 @@ To find complexity of recursive function, we use Master Theorem and recursion tr
 
 Bit Manipulation
 
+Swap numbers using third variable and using XOR operator
